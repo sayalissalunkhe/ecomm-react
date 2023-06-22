@@ -1,0 +1,9 @@
+main api	http://ec2-34-197-250-249.compute-1.amazonaws.com/api			
+				
+
+Get Products -	http://ec2-34-197-250-249.compute-1.amazonaws.com/api/get_products
+
+Search /filter - http://ec2-34-197-250-249.compute-1.amazonaws.com/api/get_products?shape=round 
+				
+Single Product -	http://ec2-34-197-250-249.compute-1.amazonaws.com/api?product_id=1			
+				
