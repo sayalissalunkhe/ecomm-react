@@ -1,0 +1,992 @@
+[
+    {
+        "product_image": "ring-img.jpg",
+        "price": 19000.0,
+        "carat": [
+            0.5,
+            1,
+            2.5,
+            2.3,
+            20,
+            15.70,
+            21.5
+        ],
+        "color": [
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "cut": [
+            "Fair",
+            "Good"
+        ],
+        "shape": [
+            "Emerald",
+            "Round",
+            "Pear"
+        ],
+        "id": "1",
+        "featured": false
+    },
+    {
+        "product_image": "ring-img.jpg",
+        "price": 190,
+        "carat": [
+            5,
+            2.3,
+            6.5,
+            4.9,
+            0.58,
+            0.45,
+            2
+        ],
+        "color": [
+            "D",
+            "E",
+            "G",
+            "H",
+            "I"
+        ],
+        "cut": [
+            "Good",
+            "Fair",
+            "Very Good"
+        ],
+        "shape": [
+            "Princess",
+            "Round",
+            "Cushion"
+        ],
+        "id": "2",
+        "featured": true
+    },
+    {
+        "product_image": "ring-img.jpg",
+        "price": 12000.0,
+        "carat": [
+            12.5,
+            2.0,
+            5.6,
+            9.1,
+            7.5,
+            8.1,
+            9.2,
+            11.5,
+            13.80,
+            0.60
+        ],
+        "color": [
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "cut": [
+            "Very Good",
+            "Good",
+            "Excellent"
+        ],
+        "shape": [
+            "Emerald",
+            "Heart",
+            "Pear"
+        ],
+        "id": "3",
+        "featured": false
+    },
+    {
+        "product_image": "ring-img.jpg",
+        "price": 19000.0,
+        "carat": [
+            0.5,
+            1,
+            2.5,
+            2.3,
+            20,
+            15.70,
+            21.5
+        ],
+        "color": [
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "cut": [
+            "Fair",
+            "Good"
+        ],
+        "shape": [
+            "Emerald",
+            "Round",
+            "Pear"
+        ],
+        "id": "4",
+        "featured": false
+    },
+    {
+        "product_image": "ring-img.jpg",
+        "price": 190,
+        "carat": [
+            5,
+            2.3,
+            6.5,
+            4.9,
+            0.58,
+            0.45,
+            2
+        ],
+        "color": [
+            "D",
+            "E",
+            "G",
+            "H",
+            "I"
+        ],
+        "cut": [
+            "Good",
+            "Fair",
+            "Very Good"
+        ],
+        "shape": [
+            "Princess",
+            "Round",
+            "Cushion"
+        ],
+        "id": "5",
+        "featured": true
+    },
+    {
+        "product_image": "ring-img.jpg",
+        "price": 12000.0,
+        "carat": [
+            12.5,
+            2.0,
+            5.6,
+            9.1,
+            7.5,
+            8.1,
+            9.2,
+            11.5,
+            13.80,
+            0.60
+        ],
+        "color": [
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "cut": [
+            "Very Good",
+            "Good",
+            "Excellent"
+        ],
+        "shape": [
+            "Emerald",
+            "Heart",
+            "Pear"
+        ],
+        "id": "6",
+        "featured": false
+    },
+    {
+        "product_image": "ring-img.jpg",
+        "price": 19000.0,
+        "carat": [
+            0.5,
+            1,
+            2.5,
+            2.3,
+            20,
+            15.70,
+            21.5
+        ],
+        "color": [
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "cut": [
+            "Fair",
+            "Good"
+        ],
+        "shape": [
+            "Emerald",
+            "Round",
+            "Pear"
+        ],
+        "id": "7",
+        "featured": false
+    },
+    {
+        "product_image": "ring-img.jpg",
+        "price": 190,
+        "carat": [
+            5,
+            2.3,
+            6.5,
+            4.9,
+            0.58,
+            0.45,
+            2
+        ],
+        "color": [
+            "D",
+            "E",
+            "G",
+            "H",
+            "I"
+        ],
+        "cut": [
+            "Good",
+            "Fair",
+            "Very Good"
+        ],
+        "shape": [
+            "Princess",
+            "Round",
+            "Cushion"
+        ],
+        "id": "8",
+        "featured": true
+    },
+    {
+        "product_image": "ring-img.jpg",
+        "price": 12000.0,
+        "carat": [
+            12.5,
+            2.0,
+            5.6,
+            9.1,
+            7.5,
+            8.1,
+            9.2,
+            11.5,
+            13.80,
+            0.60
+        ],
+        "color": [
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "cut": [
+            "Very Good",
+            "Good",
+            "Excellent"
+        ],
+        "shape": [
+            "Emerald",
+            "Heart",
+            "Pear"
+        ],
+        "id": "9",
+        "featured": false
+    },
+    {
+        "product_image": "ring-img.jpg",
+        "price": 19000.0,
+        "carat": [
+            0.5,
+            1,
+            2.5,
+            2.3,
+            20,
+            15.70,
+            21.5
+        ],
+        "color": [
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "cut": [
+            "Fair",
+            "Good"
+        ],
+        "shape": [
+            "Emerald",
+            "Round",
+            "Pear"
+        ],
+        "id": "10",
+        "featured": false
+    },
+    {
+        "product_image": "ring-img.jpg",
+        "price": 190,
+        "carat": [
+            5,
+            2.3,
+            6.5,
+            4.9,
+            0.58,
+            0.45,
+            2
+        ],
+        "color": [
+            "D",
+            "E",
+            "G",
+            "H",
+            "I"
+        ],
+        "cut": [
+            "Good",
+            "Fair",
+            "Very Good"
+        ],
+        "shape": [
+            "Princess",
+            "Round",
+            "Cushion"
+        ],
+        "id": "11",
+        "featured": true
+    },
+    {
+        "product_image": "ring-img.jpg",
+        "price": 12000.0,
+        "carat": [
+            12.5,
+            2.0,
+            5.6,
+            9.1,
+            7.5,
+            8.1,
+            9.2,
+            11.5,
+            13.80,
+            0.60
+        ],
+        "color": [
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "cut": [
+            "Very Good",
+            "Good",
+            "Excellent"
+        ],
+        "shape": [
+            "Emerald",
+            "Heart",
+            "Pear"
+        ],
+        "id": "12",
+        "featured": false
+    },
+    {
+        "product_image": "ring-img.jpg",
+        "price": 19000.0,
+        "carat": [
+            0.5,
+            1,
+            2.5,
+            2.3,
+            20,
+            15.70,
+            21.5
+        ],
+        "color": [
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "cut": [
+            "Fair",
+            "Good"
+        ],
+        "shape": [
+            "Emerald",
+            "Round",
+            "Pear"
+        ],
+        "id": "13",
+        "featured": false
+    },
+    {
+        "product_image": "ring-img.jpg",
+        "price": 190,
+        "carat": [
+            5,
+            2.3,
+            6.5,
+            4.9,
+            0.58,
+            0.45,
+            2
+        ],
+        "color": [
+            "D",
+            "E",
+            "G",
+            "H",
+            "I"
+        ],
+        "cut": [
+            "Good",
+            "Fair",
+            "Very Good"
+        ],
+        "shape": [
+            "Princess",
+            "Round",
+            "Cushion"
+        ],
+        "id": "14",
+        "featured": true
+    },
+    {
+        "product_image": "ring-img.jpg",
+        "price": 12000.0,
+        "carat": [
+            12.5,
+            2.0,
+            5.6,
+            9.1,
+            7.5,
+            8.1,
+            9.2,
+            11.5,
+            13.80,
+            0.60
+        ],
+        "color": [
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "cut": [
+            "Very Good",
+            "Good",
+            "Excellent"
+        ],
+        "shape": [
+            "Emerald",
+            "Heart",
+            "Pear"
+        ],
+        "id": "15",
+        "featured": false
+    },
+    {
+        "product_image": "ring-img.jpg",
+        "price": 19000.0,
+        "carat": [
+            0.5,
+            1,
+            2.5,
+            2.3,
+            20,
+            15.70,
+            21.5
+        ],
+        "color": [
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "cut": [
+            "Fair",
+            "Good"
+        ],
+        "shape": [
+            "Emerald",
+            "Round",
+            "Pear"
+        ],
+        "id": "16",
+        "featured": false
+    },
+    {
+        "product_image": "ring-img.jpg",
+        "price": 190,
+        "carat": [
+            5,
+            2.3,
+            6.5,
+            4.9,
+            0.58,
+            0.45,
+            2
+        ],
+        "color": [
+            "D",
+            "E",
+            "G",
+            "H",
+            "I"
+        ],
+        "cut": [
+            "Good",
+            "Fair",
+            "Very Good"
+        ],
+        "shape": [
+            "Princess",
+            "Round",
+            "Cushion"
+        ],
+        "id": "17",
+        "featured": true
+    },
+    {
+        "product_image": "ring-img.jpg",
+        "price": 12000.0,
+        "carat": [
+            12.5,
+            2.0,
+            5.6,
+            9.1,
+            7.5,
+            8.1,
+            9.2,
+            11.5,
+            13.80,
+            0.60
+        ],
+        "color": [
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "cut": [
+            "Very Good",
+            "Good",
+            "Excellent"
+        ],
+        "shape": [
+            "Emerald",
+            "Heart",
+            "Pear"
+        ],
+        "id": "18",
+        "featured": false
+    },
+    {
+        "product_image": "ring-img.jpg",
+        "price": 19000.0,
+        "carat": [
+            0.5,
+            1,
+            2.5,
+            2.3,
+            20,
+            15.70,
+            21.5
+        ],
+        "color": [
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "cut": [
+            "Fair",
+            "Good"
+        ],
+        "shape": [
+            "Emerald",
+            "Round",
+            "Pear"
+        ],
+        "id": "19",
+        "featured": false
+    },
+    {
+        "product_image": "ring-img.jpg",
+        "price": 190,
+        "carat": [
+            5,
+            2.3,
+            6.5,
+            4.9,
+            0.58,
+            0.45,
+            2
+        ],
+        "color": [
+            "D",
+            "E",
+            "G",
+            "H",
+            "I"
+        ],
+        "cut": [
+            "Good",
+            "Fair",
+            "Very Good"
+        ],
+        "shape": [
+            "Princess",
+            "Round",
+            "Cushion"
+        ],
+        "id": "20",
+        "featured": true
+    },
+    {
+        "product_image": "ring-img.jpg",
+        "price": 12000.0,
+        "carat": [
+            12.5,
+            2.0,
+            5.6,
+            9.1,
+            7.5,
+            8.1,
+            9.2,
+            11.5,
+            13.80,
+            0.60
+        ],
+        "color": [
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "cut": [
+            "Very Good",
+            "Good",
+            "Excellent"
+        ],
+        "shape": [
+            "Emerald",
+            "Heart",
+            "Pear"
+        ],
+        "id": "21",
+        "featured": false
+    },
+    {
+        "product_image": "ring-img.jpg",
+        "price": 19000.0,
+        "carat": [
+            0.5,
+            1,
+            2.5,
+            2.3,
+            20,
+            15.70,
+            21.5
+        ],
+        "color": [
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "cut": [
+            "Fair",
+            "Good"
+        ],
+        "shape": [
+            "Emerald",
+            "Round",
+            "Pear"
+        ],
+        "id": "22",
+        "featured": false
+    },
+    {
+        "product_image": "ring-img.jpg",
+        "price": 190,
+        "carat": [
+            5,
+            2.3,
+            6.5,
+            4.9,
+            0.58,
+            0.45,
+            2
+        ],
+        "color": [
+            "D",
+            "E",
+            "G",
+            "H",
+            "I"
+        ],
+        "cut": [
+            "Good",
+            "Fair",
+            "Very Good"
+        ],
+        "shape": [
+            "Princess",
+            "Round",
+            "Cushion"
+        ],
+        "id": "23",
+        "featured": true
+    },
+    {
+        "product_image": "ring-img.jpg",
+        "price": 12000.0,
+        "carat": [
+            12.5,
+            2.0,
+            5.6,
+            9.1,
+            7.5,
+            8.1,
+            9.2,
+            11.5,
+            13.80,
+            0.60
+        ],
+        "color": [
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "cut": [
+            "Very Good",
+            "Good",
+            "Excellent"
+        ],
+        "shape": [
+            "Emerald",
+            "Heart",
+            "Pear"
+        ],
+        "id": "24",
+        "featured": false
+    },
+    {
+        "product_image": "ring-img.jpg",
+        "price": 19000.0,
+        "carat": [
+            0.5,
+            1,
+            2.5,
+            2.3,
+            20,
+            15.70,
+            21.5
+        ],
+        "color": [
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "cut": [
+            "Fair",
+            "Good"
+        ],
+        "shape": [
+            "Emerald",
+            "Round",
+            "Pear"
+        ],
+        "id": "25",
+        "featured": false
+    },
+    {
+        "product_image": "ring-img.jpg",
+        "price": 190,
+        "carat": [
+            5,
+            2.3,
+            6.5,
+            4.9,
+            0.58,
+            0.45,
+            2
+        ],
+        "color": [
+            "D",
+            "E",
+            "G",
+            "H",
+            "I"
+        ],
+        "cut": [
+            "Good",
+            "Fair",
+            "Very Good"
+        ],
+        "shape": [
+            "Princess",
+            "Round",
+            "Cushion"
+        ],
+        "id": "26",
+        "featured": true
+    },
+    {
+        "product_image": "ring-img.jpg",
+        "price": 12000.0,
+        "carat": [
+            12.5,
+            2.0,
+            5.6,
+            9.1,
+            7.5,
+            8.1,
+            9.2,
+            11.5,
+            13.80,
+            0.60
+        ],
+        "color": [
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "cut": [
+            "Very Good",
+            "Good",
+            "Excellent"
+        ],
+        "shape": [
+            "Emerald",
+            "Heart",
+            "Pear"
+        ],
+        "id": "27",
+        "featured": false
+    },
+    {
+        "product_image": "ring-img.jpg",
+        "price": 19000.0,
+        "carat": [
+            0.5,
+            1,
+            2.5,
+            2.3,
+            20,
+            15.70,
+            21.5
+        ],
+        "color": [
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "cut": [
+            "Fair",
+            "Good"
+        ],
+        "shape": [
+            "Emerald",
+            "Round",
+            "Pear"
+        ],
+        "id": "28",
+        "featured": false
+    },
+    {
+        "product_image": "ring-img.jpg",
+        "price": 190,
+        "carat": [
+            5,
+            2.3,
+            6.5,
+            4.9,
+            0.58,
+            0.45,
+            2
+        ],
+        "color": [
+            "D",
+            "E",
+            "G",
+            "H",
+            "I"
+        ],
+        "cut": [
+            "Good",
+            "Fair",
+            "Very Good"
+        ],
+        "shape": [
+            "Princess",
+            "Round",
+            "Cushion"
+        ],
+        "id": "29",
+        "featured": true
+    },
+    {
+        "product_image": "ring-img.jpg",
+        "price": 12000.0,
+        "carat": [
+            12.5,
+            2.0,
+            5.6,
+            9.1,
+            7.5,
+            8.1,
+            9.2,
+            11.5,
+            13.80,
+            0.60
+        ],
+        "color": [
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "cut": [
+            "Very Good",
+            "Good",
+            "Excellent"
+        ],
+        "shape": [
+            "Emerald",
+            "Heart",
+            "Pear"
+        ],
+        "id": "30",
+        "featured": true
+    }
+]
