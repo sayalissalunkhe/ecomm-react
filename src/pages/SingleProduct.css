@@ -1,0 +1,28 @@
+.product-title {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.product-data {
+    padding-left: 2rem;
+}
+
+.product-price {
+    font-size: 27px;
+    line-height: 32px;
+    color: #000000;
+    margin-bottom: 5px;
+    display: inline-block;
+    letter-spacing: 0.01em;
+    font-weight: 700;
+    padding-right: 20px;
+}
+
+.product-detail {
+    font-size: 21px;
+    margin: 1.5rem 0;
+}
+
+.single-product-section .cards__item__pic-wrap::after{
+    display: none;
+}

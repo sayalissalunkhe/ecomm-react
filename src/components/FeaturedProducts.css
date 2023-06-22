@@ -1,0 +1,18 @@
+.section-title {
+    color: #000;
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.section-subtitle {
+    text-align: center;
+    font-size: 17px;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.swiper-horizontal {
+    touch-action: pan-y;
+    padding: 0 0 3rem 0;
+}

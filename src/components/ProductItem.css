@@ -1,0 +1,26 @@
+.product-item-block {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.product-item {
+    width: 23%;
+    margin: 10px;
+}
+
+.product-item img{
+    width: 100%;
+}
+
+.product-item-block .cards__item {
+    display: flex;
+    flex: none;
+    margin: 0 15px 2rem;
+    border-radius: 10px;
+    width: 30%;
+}
+
+.product-item-block .cards__item__img {
+    object-fit: contain;
+    background: #efefef;
+}
